@@ -1,4 +1,4 @@
 pandas==2.2.2
-streamlit==1.32.0
-pyodbc==4.0.32
-
+streamlit==1.29.0
+pyodbc==5.0.1
+re=2.2.1
